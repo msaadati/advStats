@@ -1,0 +1,8 @@
+install.packages('ggplot2')
+install.packages('dplyr')
+install.packages('RColorBrewer')
+install.packages('faraway')
+install.packages('performance')
+install.packages('DescTools')
+install.packages('dunn.test')
+install.packages('car')
